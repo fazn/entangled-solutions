@@ -2,9 +2,9 @@ var teamMembers = [
 	{
 		name: 'Yury Lifshits',
 		photo: 'img/team/yury.jpg',
-		post: 'Adviser',
+		post: 'Advisor',
 		linkedin: 'https://www.linkedin.com/in/lifshits',
-		bio: '<p><strong>Yury Lifshits</strong> is an adviser at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
+		bio: '<p><strong>Yury Lifshits</strong> is an advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
 	},
 	{
 		name: 'Mat Frenz',
