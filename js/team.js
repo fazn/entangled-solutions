@@ -1,11 +1,5 @@
 var teamMembers = [
-	{
-		name: 'Yury Lifshits',
-		photo: 'img/team/yury.jpg',
-		post: 'Advisor',
-		linkedin: 'https://www.linkedin.com/in/lifshits',
-		bio: '<p><strong>Yury Lifshits</strong> is an advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
-	},
+	
 	{
 		name: 'Mat Frenz',
 		photo: 'img/team/mat.png',
@@ -26,6 +20,13 @@ var teamMembers = [
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/paulmfreedman',
 		bio: '<p><strong>Paul</strong> is the CEO and co-founder of Entangled Ventures and a Principal Consultant at Entangled Solutions. A longtime advocate for the transformative power of a college education, he has founded, managed, and invested in a number of successful education ventures. Prior to Entangled Ventures, Paul was the Founder & CEO of Altius Education, an innovator in Higher Education focused on creating effective, personalized pathways to postsecondary degrees.</p><p>While still finishing college at the University of Chicago, Paul created Academic Engine, a college recruitment technology company that he later sold to Hobsons Inc. in 2004. After selling the company, Paul joined Hobsons as the president of its subsidiary focused on online student recruitment technologies where he served for five years prior to founding Altius.</p>'
+	},
+	{
+		name: 'Jason Sanders',
+		photo: 'img/team/03.png',
+		post: 'CFO',
+		linkedin: 'https://www.linkedin.com/in/jasonwsanders',
+		bio: '<p><strong>Jason Sanders</strong> is a founding partner and COO at Entangled Ventures. Jason combines his operating and investing experience with his passion for educational technology companies. He has run operations for companies of various sizes including Couchsurfing (the world’s largest social travel network with 7MM members) and Fifteen Group ($600MM in real estate assets and 300+ employees).</p><p>Jason has extensive venture capital experience, including seven years with Crosslink Capital (a leading stage-independent firm with over $1.5 billion in assets), where he was a partner focused on business and consumer services. Prior to Crosslink, he was an Associate with Advent International, a global private equity firm. After receiving a BS in Economics from the Wharton School at the University of Pennsylvania, Jason focused on re-engineering operations of major public and private companies as a management consultant with CSC Index. He is an active investor and advisor to numerous private companies.</p>'
 	},
 	{
 		name: 'Deborah Seymour',
@@ -49,13 +50,6 @@ var teamMembers = [
 		bio: '<p><strong>Mike Berlin</strong> is a Principal Consultant at Entangled Solutions. Mike has a ten-year career investing in, acquiring, advising, and building startups in the Higher Education market. He currently acts as an advisor and mentor to several edtech startups.</p><p>Prior to joining Entangled Solutions, Mike led strategy and M&A at Macmillan New Ventures, global publisher Macmillan’s education innovation division. Previously, Mike has worked as a consultant at L.E.K. Consulting. He has a B.S. in Economics from the Wharton School at the University of Pennsylvania.</p>'
 	},
 	{
-		name: 'Jason Sanders',
-		photo: 'img/team/03.png',
-		post: 'CFO',
-		linkedin: 'https://www.linkedin.com/in/jasonwsanders',
-		bio: '<p><strong>Jason Sanders</strong> is a founding partner and COO at Entangled Ventures. Jason combines his operating and investing experience with his passion for educational technology companies. He has run operations for companies of various sizes including Couchsurfing (the world’s largest social travel network with 7MM members) and Fifteen Group ($600MM in real estate assets and 300+ employees).</p><p>Jason has extensive venture capital experience, including seven years with Crosslink Capital (a leading stage-independent firm with over $1.5 billion in assets), where he was a partner focused on business and consumer services. Prior to Crosslink, he was an Associate with Advent International, a global private equity firm. After receiving a BS in Economics from the Wharton School at the University of Pennsylvania, Jason focused on re-engineering operations of major public and private companies as a management consultant with CSC Index. He is an active investor and advisor to numerous private companies.</p>'
-	},
-	{
 		name: 'Amber Laxton',
 		photo: 'img/team/amber.png',
 		post: 'Consulting Team Leader',
@@ -68,6 +62,13 @@ var teamMembers = [
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/jasminschiener',
 		bio: '<p><strong>Jasmin Schiener</strong> is a Consulting Team Leader at Entangled Solutions. She joins Entangled with deep experience in Higher Education management, most recently as a project manager for a fast-growing for-profit education organization. She previously ran the San Francisco division of a recruiting startup focused on the Bay Area tech industry. Jasmin earned a law degree at Bucerius Law school in Germany, and is experienced in program development, market analysis, M&A, healthcare education and the creation of sustainable operations infrastructure for highly regulated education entities.</p>'
+	},
+	{
+		name: 'Yury Lifshits',
+		photo: 'img/team/yury.jpg',
+		post: 'Senior Advisor',
+		linkedin: 'https://www.linkedin.com/in/lifshits',
+		bio: '<p><strong>Yury Lifshits</strong> is a senior advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
 	},
 	{
 		name: 'Lauren Dibble',
