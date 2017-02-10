@@ -4,7 +4,7 @@ var teamMembers = [
 		name: 'Mat Frenz',
 		photo: 'img/team/mat.png',
 		post: 'Managing Director',
-		linkedin: 'https://www.linkedin.com/pub/mathew-frenz/9/7b6/586',
+		linkedin: 'https://www.linkedin.com/in/mat-frenz-5867b69/',
 		bio: '<p><strong>Mat Frenz</strong> is the Managing Director at Entangled Solutions. He is dedicated to ensuring that the work we produce at Entangled is not only best-in-class, but is also carried out with professionalism, courtesy and integrity.</p><p>Prior to joining Entangled, Mat led platform operations for GlassLab, a non-profit educational technology organization funded by the Gates Foundation and the MacArthur Foundation. There, he was responsible for GlassLab Services, leading product, business and partnership strategy while driving an industry-leading approach to developing, analyzing, and distributing educational games. Mat was also the founder of Precision Response, a software as a service company devoted to supporting nonprofit organizations in their efforts to extend their reach and fundraising capabilities.</p>'
 	},
 	{
