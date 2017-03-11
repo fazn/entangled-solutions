@@ -97,7 +97,7 @@ var teamMembers = [
 		post: 'Operations Manager',
 		linkedin: 'https://www.linkedin.com/in/fazilatnassiri',
 		bio: '<p><strong>Faz Nassiri</strong> is the Operations Manager at Entangled Solutions. She ensures that internal processes and workflows run smoothly and helps coordinate with external contractors and subject matter experts. Before joining Entangled she handled operations for two tech startups at SkyDeck, UC Berkeley’s startup incubator. Prior to coming to the Bay Area, she worked as an an assistant producer in television in London. Faz holds a BA in engineering and a master’s degree in International Business Management.</p>'
-	}
+	},
 	{
 		name: 'Yury Lifshits',
 		photo: 'img/team/yury.jpg',
