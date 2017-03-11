@@ -50,11 +50,11 @@ var teamMembers = [
 		bio: '<p><strong>Mike Berlin</strong> is a Principal Consultant at Entangled Solutions. Mike has a ten-year career investing in, acquiring, advising, and building startups in the Higher Education market. He currently acts as an advisor and mentor to several edtech startups.</p><p>Prior to joining Entangled Solutions, Mike led strategy and M&A at Macmillan New Ventures, global publisher Macmillan’s education innovation division. Previously, Mike has worked as a consultant at L.E.K. Consulting. He has a B.S. in Economics from the Wharton School at the University of Pennsylvania.</p>'
 	},
 	{
-		name: 'Yury Lifshits',
-		photo: 'img/team/yury.jpg',
-		post: 'Senior Advisor',
-		linkedin: 'https://www.linkedin.com/in/lifshits',
-		bio: '<p><strong>Yury Lifshits</strong> is a senior advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
+		name: 'Terah Crews',
+		photo: 'img/team/terah.png',
+		post: 'Director of Client Solutions',
+		linkedin: 'https://www.linkedin.com/in/terahacrews/',
+		bio: '<p><strong>Terah Crews</strong> is the Director of Client Solutions at Entangled Solutions. Terah has been in education for 12 years having started in student services, research and teaching before moving into a career in executive administration and new program/venture development.</p><p>Immediately prior to joining Entangled, Terah led business development for Sixup, PBC a fintech / edtech platform that partners with schools to help low-income students pick, pay for and graduate from college. Prior to Sixup, Terah served four years at Arizona State University. While there she worked for the President of ASU and the CEO of the ASU Foundation to build innovative new programs and revenue streams including a public service academy, a defense contractor, an edtech accelerator and a new corporate structure for the university’s foundation.  Terah holds a BA from the University of North Carolina at Chapel Hill and master’s degrees from Brown University and Harvard where she studied political systems as well as leadership and economics of higher education.</p>'
 	},
 	{
 		name: 'Kyle Cureau',
@@ -98,4 +98,11 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/fazilatnassiri',
 		bio: '<p><strong>Faz Nassiri</strong> is the Operations Manager at Entangled Solutions. She ensures that internal processes and workflows run smoothly and helps coordinate with external contractors and subject matter experts. Before joining Entangled she handled operations for two tech startups at SkyDeck, UC Berkeley’s startup incubator. Prior to coming to the Bay Area, she worked as an an assistant producer in television in London. Faz holds a BA in engineering and a master’s degree in International Business Management.</p>'
 	}
+	{
+		name: 'Yury Lifshits',
+		photo: 'img/team/yury.jpg',
+		post: 'Senior Advisor',
+		linkedin: 'https://www.linkedin.com/in/lifshits',
+		bio: '<p><strong>Yury Lifshits</strong> is a senior advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
+	},
 ];
