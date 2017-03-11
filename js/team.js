@@ -51,7 +51,7 @@ var teamMembers = [
 	},
 	{
 		name: 'Terah Crews',
-		photo: 'img/team/terah.png',
+		photo: 'img/team/terah.jpg',
 		post: 'Director of Client Solutions',
 		linkedin: 'https://www.linkedin.com/in/terahacrews/',
 		bio: '<p><strong>Terah Crews</strong> is the Director of Client Solutions at Entangled Solutions. Terah has been in education for 12 years having started in student services, research and teaching before moving into a career in executive administration and new program/venture development.</p><p>Immediately prior to joining Entangled, Terah led business development for Sixup, PBC a fintech / edtech platform that partners with schools to help low-income students pick, pay for and graduate from college. Prior to Sixup, Terah served four years at Arizona State University. While there she worked for the President of ASU and the CEO of the ASU Foundation to build innovative new programs and revenue streams including a public service academy, a defense contractor, an edtech accelerator and a new corporate structure for the university’s foundation.  Terah holds a BA from the University of North Carolina at Chapel Hill and master’s degrees from Brown University and Harvard where she studied political systems as well as leadership and economics of higher education.</p>'
