@@ -40,7 +40,7 @@ var teamMembers = [
 		photo: 'img/team/jeff.jpg',
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/jeffselingo/',
-		bio: '<p><strong>Jeff Selingo</strong>Jeff Selingo is a Principal Consultant at Entangled Solutions. He has written about higher education for two decades. He is the author of three books, the newest of which, There Is Life After College (HarperCollins, 2016), is a New York Times bestseller.</p> <p>Named one of LinkedIn’s "must-know influencers" of 2016, Jeff is a regular contributor to the Washington Post, a special advisor and professor of practice at Arizona State University, and a visiting scholar at Georgia Tech’s Center for 21st Century Universities. Jeff received a bachelor’s degree in journalism from Ithaca College and a master’s degree in government from the Johns Hopkins University.</p>'
+		bio: '<p><strong>Jeff Selingo</strong> is a Principal Consultant at Entangled Solutions. He has written about higher education for two decades. He is the author of three books, the newest of which, There Is Life After College (HarperCollins, 2016), is a New York Times bestseller.</p> <p>Named one of LinkedIn’s "must-know influencers" of 2016, Jeff is a regular contributor to the Washington Post, a special advisor and professor of practice at Arizona State University, and a visiting scholar at Georgia Tech’s Center for 21st Century Universities. Jeff received a bachelor’s degree in journalism from Ithaca College and a master’s degree in government from the Johns Hopkins University.</p>'
 	},
 	{
 		name: 'Seth Andrew',
