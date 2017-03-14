@@ -2,7 +2,7 @@ var teamMembers = [
 	
 	{
 		name: 'Mat Frenz',
-		photo: 'img/team/mat.png',
+		photo: 'img/team/mat.jpg',
 		post: 'Managing Director',
 		linkedin: 'https://www.linkedin.com/in/mat-frenz-5867b69/',
 		bio: '<p><strong>Mat Frenz</strong> is the Managing Director at Entangled Solutions. He is dedicated to ensuring that the work we produce at Entangled is not only best-in-class, but is also carried out with professionalism, courtesy and integrity.</p><p>Prior to joining Entangled, Mat led platform operations for GlassLab, a non-profit educational technology organization funded by the Gates Foundation and the MacArthur Foundation. There, he was responsible for GlassLab Services, leading product, business and partnership strategy while driving an industry-leading approach to developing, analyzing, and distributing educational games. Mat was also the founder of Precision Response, a software as a service company devoted to supporting nonprofit organizations in their efforts to extend their reach and fundraising capabilities.</p>'
@@ -23,14 +23,14 @@ var teamMembers = [
 	},
 	{
 		name: 'Jason Sanders',
-		photo: 'img/team/03.png',
+		photo: 'img/team/jason.jpg',
 		post: 'CFO',
 		linkedin: 'https://www.linkedin.com/in/jasonwsanders',
 		bio: '<p><strong>Jason Sanders</strong> is a founding partner and COO at Entangled Ventures. Jason combines his operating and investing experience with his passion for educational technology companies. He has run operations for companies of various sizes including Couchsurfing (the world’s largest social travel network with 7MM members) and Fifteen Group ($600MM in real estate assets and 300+ employees).</p><p>Jason has extensive venture capital experience, including seven years with Crosslink Capital (a leading stage-independent firm with over $1.5 billion in assets), where he was a partner focused on business and consumer services. Prior to Crosslink, he was an Associate with Advent International, a global private equity firm. After receiving a BS in Economics from the Wharton School at the University of Pennsylvania, Jason focused on re-engineering operations of major public and private companies as a management consultant with CSC Index. He is an active investor and advisor to numerous private companies.</p>'
 	},
 	{
 		name: 'Deborah Seymour',
-		photo: 'img/team/deborah.png',
+		photo: 'img/team/deb.jpg',
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/deborahmseymour',
 		bio: '<p><strong>Deborah Seymour</strong> is a Principal Consultant at Entangled Solutions. Previously, she served as chief academic innovation officer at the American Council on Education, a role in which she oversaw the Council’s agenda to support the return of the United States to global recognition in post-secondary attainment.</p><p>Deborah taught in the City University of New York system for 15 years. She also served as associate director of the Center for Adult Life & Learning at the 92nd Street Y in New York City, with responsibility for adult education programs and strategic partnerships with multiple external organizations. Deborah taught as well at the University of California-Irvine (UCI) and at Orange Coast College. She subsequently became a development officer for the School of Humanities at UCI, before transitioning to Laureate Education. At Laureate, she worked in all facets of product development and product management, both domestically and internationally. Her Laureate career also included research in the area of competency-based education. Deborah holds a BA from Hunter College in business and communications and an MPhil and PhD in theoretical linguistics from the City University of New York Graduate School and University Center.</p>'
@@ -51,7 +51,7 @@ var teamMembers = [
 	},
 	{
 		name: 'Mike Berlin',
-		photo: 'img/team/mike.png',
+		photo: 'img/team/mike.jpg',
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/berlinmike',
 		bio: '<p><strong>Mike Berlin</strong> is a Principal Consultant at Entangled Solutions. Mike has a ten-year career investing in, acquiring, advising, and building startups in the Higher Education market. He currently acts as an advisor and mentor to several edtech startups.</p><p>Prior to joining Entangled Solutions, Mike led strategy and M&A at Macmillan New Ventures, global publisher Macmillan’s education innovation division. Previously, Mike has worked as a consultant at L.E.K. Consulting. He has a B.S. in Economics from the Wharton School at the University of Pennsylvania.</p>'
@@ -65,21 +65,21 @@ var teamMembers = [
 	},
 	{
 		name: 'Kyle Cureau',
-		photo: 'img/team/kyle.png',
+		photo: 'img/team/kyle.jpg',
 		post: 'Director of Strategic Initiatives',
 		linkedin: 'https://www.linkedin.com/in/cureau',
 		bio: '<p><strong>Kyle Cureau</strong> is the Director of Strategic Initiatives at Entangled Solutions, currently leading Matterfund, the first real-time graph intelligence platform for international education development. He has consulted across verticals, leading teams to design and develop business models, system architecture, APIs, web apps, and mobile apps.</p><p>He also co-founded the health charity LzA to provide supplies to malnourished children. LzA, in partnership with CORE, PacSun, AmFam, and Birchbox, helped kids and communities in Central America. While still in college, Kyle started his first venture, BuyWell, a Fair Trade coffee roaster and wholesaler. Within three years, he had grown BuyWell to a team of 15, working directly with farming coops in seven countries, and roasting 15,000lbs a month for major retailers.</p><p>With a career bent for impact and a passion for education, Kyle\'s focus is on student experience. He believes strongly in learning-by-doing and learning-by-playing.</p>'
 	},
 	{
 		name: 'Amber Laxton',
-		photo: 'img/team/amber.png',
+		photo: 'img/team/amber.jpg',
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/amberlaxton',
 		bio: '<p><strong>Amber Laxton</strong> is a Consulting Team Leader at Entangled Solutions. She joins Entangled with over eight years of experience in continuing education, most recently as a Senior Analyst of Continuing Education at Eduventures. She previously worked as the Director of Academic Services at the University of California Santa Cruz Extension and the Enrollment Services Manager at DePaul University Continuing and Professional Education. She has experience developing and managing non-credit and non-degree programs and optimizing technology to improve operational efficiency and student services.</p>'
 	},
 	{
 		name: 'Jasmin Schiener',
-		photo: 'img/team/jasmin.png',
+		photo: 'img/team/jasmin.jpg',
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/jasminschiener',
 		bio: '<p><strong>Jasmin Schiener</strong> is a Consulting Team Leader at Entangled Solutions. She joins Entangled with deep experience in Higher Education management, most recently as a project manager for a fast-growing for-profit education organization. She previously ran the San Francisco division of a recruiting startup focused on the Bay Area tech industry. Jasmin earned a law degree at Bucerius Law school in Germany, and is experienced in program development, market analysis, M&A, healthcare education and the creation of sustainable operations infrastructure for highly regulated education entities.</p>'
@@ -93,14 +93,14 @@ var teamMembers = [
 	},
 	{
 		name: 'Casey Boyles',
-		photo: 'img/team/casey.png',
+		photo: 'img/team/casey.jpg',
 		post: 'Partnerships Manager',
 		linkedin: 'https://www.linkedin.com/in/caseythomasboyles',
 		bio: '<p><strong>Casey Boyles</strong> is the Partnerships Manager at Entangled Solutions. Prior to joining the team she spent the last 4 years working with Bay Area startups, helping to build sales, customer success and customer support teams. She has experience building summer school programs and has a passion for continuing education.</p><p>Casey earned a degree in Physics at King’s College London, a masters degree in Nanotechnology from the University of Pennsylvania and spent a year doing research on Electrical & Computer Engineering at the National University of Singapore.</p>'
 	},
 	{
 		name: 'Faz Nassiri',
-		photo: 'img/team/faz.png',
+		photo: 'img/team/faz.jpg',
 		post: 'Operations Manager',
 		linkedin: 'https://www.linkedin.com/in/fazilatnassiri',
 		bio: '<p><strong>Faz Nassiri</strong> is the Operations Manager at Entangled Solutions. She ensures that internal processes and workflows run smoothly and helps coordinate with external contractors and subject matter experts. Before joining Entangled she handled operations for two tech startups at SkyDeck, UC Berkeley’s startup incubator. Prior to coming to the Bay Area, she worked as an an assistant producer in television in London. Faz holds a BA in engineering and a master’s degree in International Business Management.</p>'
