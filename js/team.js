@@ -8,11 +8,11 @@ var teamMembers = [
 		bio: '<p><strong>Mat Frenz</strong> is the Managing Director at Entangled Solutions. He is dedicated to ensuring that the work we produce at Entangled is not only best-in-class, but is also carried out with professionalism, courtesy and integrity.</p><p>Prior to joining Entangled, Mat led platform operations for GlassLab, a non-profit educational technology organization funded by the Gates Foundation and the MacArthur Foundation. There, he was responsible for GlassLab Services, leading product, business and partnership strategy while driving an industry-leading approach to developing, analyzing, and distributing educational games. Mat was also the founder of Precision Response, a software as a service company devoted to supporting nonprofit organizations in their efforts to extend their reach and fundraising capabilities.</p>'
 	},
 	{
-		name: 'Michael Horn',
-		photo: 'img/team/michael.jpg',
-		post: 'Principal Consultant',
-		linkedin: 'https://www.linkedin.com/in/michaelbhorn',
-		bio: '<p><strong>Michael Horn</strong> is a Principal Consultant at Entangled Solutions. He is also the co-founder of and a distinguished fellow at the Clayton Christensen Institute for Disruptive Innovation, a nonprofit think tank. Michael is the author of award-winning book "Disrupting Class: How Disruptive Innovation Will Change the Way the World Learns" and the Amazon bestseller "Blended: Using Disruptive Innovation to Improve Schools".</p><p>Michael serves on the board of Fidelis Education, Education Elements, the Silicon Schools Fund, the National Association of Independent Schools, and the Minerva Institute. He serves as an advisor to Intellus Learning, Pedago, Knod, Everest Education, AltSchool, Degreed, the Education Innovation Advisory Board at Arizona State University, and the Hechinger Institute on Education and the Media, and he is an executive editor at Education Next. Tech&Learning magazine named him to its list of the 100 most important people in the creation and advancement of the use of technology in education. He holds a BA in history from Yale University and an MBA from the Harvard Business School.</p>'
+		name: 'Terah Crews',
+		photo: 'img/team/terah.jpg',
+		post: 'Director of Client Solutions',
+		linkedin: 'https://www.linkedin.com/in/terahacrews/',
+		bio: '<p><strong>Terah Crews</strong> is the Director of Client Solutions at Entangled Solutions. Terah has been in education for 12 years having started in student services, research and teaching before moving into a career in executive administration and new program/venture development.</p><p>Immediately prior to joining Entangled, Terah led business development for Sixup, PBC a fintech / edtech platform that partners with schools to help low-income students pick, pay for and graduate from college. Prior to Sixup, Terah served four years at Arizona State University. While there she worked for the President of ASU and the CEO of the ASU Foundation to build innovative new programs and revenue streams including a public service academy, a defense contractor, an edtech accelerator and a new corporate structure for the university’s foundation.  Terah holds a BA from the University of North Carolina at Chapel Hill and master’s degrees from Brown University and Harvard where she studied political systems as well as leadership and economics of higher education.</p>'
 	},
 	{
 		name: 'Paul Freedman',
@@ -57,11 +57,11 @@ var teamMembers = [
 		bio: '<p><strong>Mike Berlin</strong> is a Principal Consultant at Entangled Solutions. Mike has a ten-year career investing in, acquiring, advising, and building startups in the Higher Education market. He currently acts as an advisor and mentor to several edtech startups.</p><p>Prior to joining Entangled Solutions, Mike led strategy and M&A at Macmillan New Ventures, global publisher Macmillan’s education innovation division. Previously, Mike has worked as a consultant at L.E.K. Consulting. He has a B.S. in Economics from the Wharton School at the University of Pennsylvania.</p>'
 	},
 	{
-		name: 'Terah Crews',
-		photo: 'img/team/terah.jpg',
-		post: 'Director of Client Solutions',
-		linkedin: 'https://www.linkedin.com/in/terahacrews/',
-		bio: '<p><strong>Terah Crews</strong> is the Director of Client Solutions at Entangled Solutions. Terah has been in education for 12 years having started in student services, research and teaching before moving into a career in executive administration and new program/venture development.</p><p>Immediately prior to joining Entangled, Terah led business development for Sixup, PBC a fintech / edtech platform that partners with schools to help low-income students pick, pay for and graduate from college. Prior to Sixup, Terah served four years at Arizona State University. While there she worked for the President of ASU and the CEO of the ASU Foundation to build innovative new programs and revenue streams including a public service academy, a defense contractor, an edtech accelerator and a new corporate structure for the university’s foundation.  Terah holds a BA from the University of North Carolina at Chapel Hill and master’s degrees from Brown University and Harvard where she studied political systems as well as leadership and economics of higher education.</p>'
+		name: 'Michael Horn',
+		photo: 'img/team/michael.jpg',
+		post: 'Principal Consultant',
+		linkedin: 'https://www.linkedin.com/in/michaelbhorn',
+		bio: '<p><strong>Michael Horn</strong> is a Principal Consultant at Entangled Solutions. He is also the co-founder of and a distinguished fellow at the Clayton Christensen Institute for Disruptive Innovation, a nonprofit think tank. Michael is the author of award-winning book "Disrupting Class: How Disruptive Innovation Will Change the Way the World Learns" and the Amazon bestseller "Blended: Using Disruptive Innovation to Improve Schools".</p><p>Michael serves on the board of Fidelis Education, Education Elements, the Silicon Schools Fund, the National Association of Independent Schools, and the Minerva Institute. He serves as an advisor to Intellus Learning, Pedago, Knod, Everest Education, AltSchool, Degreed, the Education Innovation Advisory Board at Arizona State University, and the Hechinger Institute on Education and the Media, and he is an executive editor at Education Next. Tech&Learning magazine named him to its list of the 100 most important people in the creation and advancement of the use of technology in education. He holds a BA in history from Yale University and an MBA from the Harvard Business School.</p>'
 	},
 	{
 		name: 'Kyle Cureau',
