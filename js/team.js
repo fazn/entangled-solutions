@@ -35,16 +35,27 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/jeffselingo/',
 		bio: '<p><strong>Jeff Selingo</strong> is a Principal Consultant at Entangled Solutions. He has written about higher education for two decades. He is the author of three books, the newest of which, There Is Life After College (HarperCollins, 2016), is a New York Times bestseller.</p> <p>Named one of LinkedIn’s "must-know influencers" of 2016, Jeff is a regular contributor to the Washington Post, a special advisor and professor of practice at Arizona State University, and a visiting scholar at Georgia Tech’s Center for 21st Century Universities. Jeff received a bachelor’s degree in journalism from Ithaca College and a master’s degree in government from the Johns Hopkins University.</p>'
 	},
-
+	{
+		name: 'Michael Horn',
+		photo: 'img/team/michael.jpg',
+		post: 'Principal Consultant',
+		linkedin: 'https://www.linkedin.com/in/michaelbhorn',
+		bio: '<p><strong>Michael Horn</strong> is a Principal Consultant at Entangled Solutions. He is also the co-founder of and a distinguished fellow at the Clayton Christensen Institute for Disruptive Innovation, a nonprofit think tank. Michael is the author of award-winning book "Disrupting Class: How Disruptive Innovation Will Change the Way the World Learns" and the Amazon bestseller "Blended: Using Disruptive Innovation to Improve Schools".</p><p>Michael serves on the board of Fidelis Education, Education Elements, the Silicon Schools Fund, the National Association of Independent Schools, and the Minerva Institute. He serves as an advisor to Intellus Learning, Pedago, Knod, Everest Education, AltSchool, Degreed, the Education Innovation Advisory Board at Arizona State University, and the Hechinger Institute on Education and the Media, and he is an executive editor at Education Next. Tech&Learning magazine named him to its list of the 100 most important people in the creation and advancement of the use of technology in education. He holds a BA in history from Yale University and an MBA from the Harvard Business School.</p>'
+	},
 	{
 		name: 'Kelley Powell',
 		photo: 'img/team/kelley.jpg',
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/kelley-powell-4756a248/',
 		bio: '<p><strong>Kelley Powell</strong> is a Principal Consultant at Entangled Solutions. Kelley is a co-founder and CCO of Martellus Education. Previously, she was a senior executive of Royall & Company where she led its Business Information Office and Client Data Services. Her professional background includes nearly 20 years of hands-on higher education data management and services experience. Prior to Royall & Company, Kelley served as Director of Professional Services for Nolij Corporation (acquired by Lexmark). Earlier in her career, Kelley was Manager for Administrative Systems for the University of Richmond. Kelley has a passion for higher education and the information technologies supporting our clients’ missions. Kelley dedicates her time listening to clients, responding to their challenges and ultimately helping them achieve their goals and objectives.</p><p>She received her B.S. in Management Information Systems, Decision Support Systems from Virginia Polytechnic Institute and her M.B.A. from the University of Richmond with a concentration in leadership. Kelley enjoys spending time outdoors with family and is a partner in hope for St. Jude’s Children’s Hospital.</p>'
+	},	
+	{
+	    name: 'Nick Hammerschlag',
+	    photo: 'img/team/nick.jpg',
+	    post: 'Principal Consultant',
+	    linkedin: 'https://www.linkedin.com/in/nhammerschlag/',
+	    bio: '<p><strong>Nick Hammerschlag</strong> is a Principal Consultant at Entangled Solutions and the President of Entangled Ventures. He was previously on the investment team at General Atlantic and OpenView Venture Partners where he focused on investments in the Internet, Technology, and Education sectors. Nick has extensive experience in scaling both software and education companies having led OpenView’s investment in Instructure (NYSE: INST) and serving on its board. Nick\'s current and prior board director/observer seats include: Qubed Education, Monetate, Instructure, and QTS.</p><p>Outside of the office, Nick supports the MARSOC Foundation and is a member of the Weill Cornell Children\'s Health Council. He graduated from Columbia University with a degree in History. Nick enjoys spending time with his wife, daughter, and their pug/shar-pei puppy named Uni.</p>'
 	},
-
-
 	{
 		name: 'Mike Berlin',
 		photo: 'img/team/mike.jpg',
@@ -53,11 +64,11 @@ var teamMembers = [
 		bio: '<p><strong>Mike Berlin</strong> is a Principal Consultant at Entangled Solutions. Mike has a ten-year career investing in, acquiring, advising, and building startups in the Higher Education market. He currently acts as an advisor and mentor to several edtech startups.</p><p>Prior to joining Entangled Solutions, Mike led strategy and M&A at Macmillan New Ventures, global publisher Macmillan’s education innovation division. Previously, Mike has worked as a consultant at L.E.K. Consulting. He has a B.S. in Economics from the Wharton School at the University of Pennsylvania.</p>'
 	},
 	{
-		name: 'Michael Horn',
-		photo: 'img/team/michael.jpg',
+		name: 'Allison Salisbury',
+		photo: 'img/team/allison.jpg',
 		post: 'Principal Consultant',
-		linkedin: 'https://www.linkedin.com/in/michaelbhorn',
-		bio: '<p><strong>Michael Horn</strong> is a Principal Consultant at Entangled Solutions. He is also the co-founder of and a distinguished fellow at the Clayton Christensen Institute for Disruptive Innovation, a nonprofit think tank. Michael is the author of award-winning book "Disrupting Class: How Disruptive Innovation Will Change the Way the World Learns" and the Amazon bestseller "Blended: Using Disruptive Innovation to Improve Schools".</p><p>Michael serves on the board of Fidelis Education, Education Elements, the Silicon Schools Fund, the National Association of Independent Schools, and the Minerva Institute. He serves as an advisor to Intellus Learning, Pedago, Knod, Everest Education, AltSchool, Degreed, the Education Innovation Advisory Board at Arizona State University, and the Hechinger Institute on Education and the Media, and he is an executive editor at Education Next. Tech&Learning magazine named him to its list of the 100 most important people in the creation and advancement of the use of technology in education. He holds a BA in history from Yale University and an MBA from the Harvard Business School.</p>'
+		linkedin: 'https://www.linkedin.com/in/adulin/',
+		bio: '<p><strong>Allison Salisbury</strong> is a Principal Consultant at Entangled Solutions. With a background as a university administrator and entrepreneur, her work focuses on innovation management for universities, new postsecondary models, and partnerships between edtech and higher education.</p><p>Prior to joining Entangled, Allison launched the higher education organization at EdSurge, where she built and led an interdisciplinary team of journalists, community builders, designers, and engineers. Allison also ran innovation efforts for the President at Davidson College, spearheading priorities around innovation management, edtech partnerships, new program creation, and college to career transitions.</p><p>Inspired by how education can be a tool for individual and community empowerment, Allison began her career as a social justice educator designing experiential learning programs for undergraduates in the U.S. South and rural Thailand.</p>'
 	},
 	{
 		name: 'Kyle Cureau',
