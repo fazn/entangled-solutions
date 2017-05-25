@@ -7,7 +7,6 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/mat-frenz-5867b69/',
 		bio: '<p><strong>Mat Frenz</strong> is the Managing Director at Entangled Solutions. He is dedicated to ensuring that the work we produce at Entangled is not only best-in-class, but is also carried out with professionalism, courtesy and integrity.</p><p>Prior to joining Entangled, Mat led platform operations for GlassLab, a non-profit educational technology organization funded by the Gates Foundation and the MacArthur Foundation. There, he was responsible for GlassLab Services, leading product, business and partnership strategy while driving an industry-leading approach to developing, analyzing, and distributing educational games. Mat was also the founder of Precision Response, a software as a service company devoted to supporting nonprofit organizations in their efforts to extend their reach and fundraising capabilities.</p>'
 	},
-
 	{
 		name: 'Terah Crews',
 		photo: 'img/team/terah.jpg',
@@ -15,20 +14,12 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/terahacrews/',
 		bio: '<p><strong>Terah Crews</strong> is the Director of Client Solutions at Entangled Solutions. Terah has been in education for 12 years having started in student services, research and teaching before moving into a career in executive administration and new program/venture development.</p><p>Immediately prior to joining Entangled, Terah led business development for Sixup, PBC a fintech / edtech platform that partners with schools to help low-income students pick, pay for and graduate from college. Prior to Sixup, Terah served four years at Arizona State University. While there she worked for the President of ASU and the CEO of the ASU Foundation to build innovative new programs and revenue streams including a public service academy, a defense contractor, an edtech accelerator and a new corporate structure for the university’s foundation.  Terah holds a BA from the University of North Carolina at Chapel Hill and master’s degrees from Brown University and Harvard where she studied political systems as well as leadership and economics of higher education.</p>'
 	},
-	
 	{
 		name: 'Paul Freedman',
 		photo: 'img/team/paul.jpg',
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/paulmfreedman',
 		bio: '<p><strong>Paul</strong> is the CEO and co-founder of Entangled Ventures and a Principal Consultant at Entangled Solutions. A longtime advocate for the transformative power of a college education, he has founded, managed, and invested in a number of successful education ventures. Prior to Entangled Ventures, Paul was the Founder & CEO of Altius Education, an innovator in Higher Education focused on creating effective, personalized pathways to postsecondary degrees.</p><p>While still finishing college at the University of Chicago, Paul created Academic Engine, a college recruitment technology company that he later sold to Hobsons Inc. in 2004. After selling the company, Paul joined Hobsons as the president of its subsidiary focused on online student recruitment technologies where he served for five years prior to founding Altius.</p>'
-	},
-	{
-		name: 'Jason Sanders',
-		photo: 'img/team/jason.jpg',
-		post: 'CFO',
-		linkedin: 'https://www.linkedin.com/in/jasonwsanders',
-		bio: '<p><strong>Jason Sanders</strong> is a founding partner and COO at Entangled Ventures. Jason combines his operating and investing experience with his passion for educational technology companies. He has run operations for companies of various sizes including Couchsurfing (the world’s largest social travel network with 7MM members) and Fifteen Group ($600MM in real estate assets and 300+ employees).</p><p>Jason has extensive venture capital experience, including seven years with Crosslink Capital (a leading stage-independent firm with over $1.5 billion in assets), where he was a partner focused on business and consumer services. Prior to Crosslink, he was an Associate with Advent International, a global private equity firm. After receiving a BS in Economics from the Wharton School at the University of Pennsylvania, Jason focused on re-engineering operations of major public and private companies as a management consultant with CSC Index. He is an active investor and advisor to numerous private companies.</p>'
 	},
 	{
 		name: 'Deborah Seymour',
@@ -44,13 +35,16 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/jeffselingo/',
 		bio: '<p><strong>Jeff Selingo</strong> is a Principal Consultant at Entangled Solutions. He has written about higher education for two decades. He is the author of three books, the newest of which, There Is Life After College (HarperCollins, 2016), is a New York Times bestseller.</p> <p>Named one of LinkedIn’s "must-know influencers" of 2016, Jeff is a regular contributor to the Washington Post, a special advisor and professor of practice at Arizona State University, and a visiting scholar at Georgia Tech’s Center for 21st Century Universities. Jeff received a bachelor’s degree in journalism from Ithaca College and a master’s degree in government from the Johns Hopkins University.</p>'
 	},
+
 	{
-		name: 'Seth Andrew',
-		photo: 'img/team/seth.jpg',
+		name: 'Kelley Powell',
+		photo: 'img/team/kelley.jpg',
 		post: 'Principal Consultant',
-		linkedin: 'https://www.linkedin.com/in/sethandrew/',
-		bio: '<p><strong>Seth Andrew</strong>  is a Principal Consultant at Entangled Solutions. Most recently he served in the White House as Senior Advisor for Education and Civic Technology in the Executive Office of the President.  He led the Obama Administration’s efforts including Virtual reality for good, Future Ready Schools, Computer Science For All, Next Generation High Schools, and Vote.gov among others. Prior to the White House Seth served as Superintendent in Residence and Senior Advisor for US Education Secretary Arne Duncan.</p><p>Seth is a serial social entrepreneur. He founded and grew Democracy Prep Public Schools into a national network with more than 1,000 staff and a $120m annual budget and some of the strongest academic impact of any school organization. He also founded Washington Leadership Academy, which recently won the $10m XQ SuperSchool prize from Laurene Powell Jobs, Democracy Builders, Alumni Revolution, Citizenship First, Polaris Project, and Revolutionary Education Ventures (REV).  He holds an Ed.M from Harvard University and an A.B from Brown University.</p>'
+		linkedin: 'https://www.linkedin.com/in/kelley-powell-4756a248/',
+		bio: '<p><strong>Kelley Powell</strong> is a Principal Consultant at Entangled Solutions. Kelley is a co-founder and CCO of Martellus Education. Previously, she was a senior executive of Royall & Company where she led its Business Information Office and Client Data Services. Her professional background includes nearly 20 years of hands-on higher education data management and services experience. Prior to Royall & Company, Kelley served as Director of Professional Services for Nolij Corporation (acquired by Lexmark). Earlier in her career, Kelley was Manager for Administrative Systems for the University of Richmond. Kelley has a passion for higher education and the information technologies supporting our clients’ missions. Kelley dedicates her time listening to clients, responding to their challenges and ultimately helping them achieve their goals and objectives.</p><p>She received her B.S. in Management Information Systems, Decision Support Systems from Virginia Polytechnic Institute and her M.B.A. from the University of Richmond with a concentration in leadership. Kelley enjoys spending time outdoors with family and is a partner in hope for St. Jude’s Children’s Hospital.</p>'
 	},
+
+
 	{
 		name: 'Mike Berlin',
 		photo: 'img/team/mike.jpg',
@@ -113,5 +107,12 @@ var teamMembers = [
 		post: 'Senior Advisor',
 		linkedin: 'https://www.linkedin.com/in/lifshits',
 		bio: '<p><strong>Yury Lifshits</strong> is a senior advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
+	},
+	{
+		name: 'Seth Andrew',
+		photo: 'img/team/seth.jpg',
+		post: 'Senior Advisor',
+		linkedin: 'https://www.linkedin.com/in/sethandrew/',
+		bio: '<p><strong>Seth Andrew</strong>  is a Senior Advisor at Entangled Solutions. Most recently he served in the White House as Senior Advisor for Education and Civic Technology in the Executive Office of the President.  He led the Obama Administration’s efforts including Virtual reality for good, Future Ready Schools, Computer Science For All, Next Generation High Schools, and Vote.gov among others. Prior to the White House Seth served as Superintendent in Residence and Senior Advisor for US Education Secretary Arne Duncan.</p><p>Seth is a serial social entrepreneur. He founded and grew Democracy Prep Public Schools into a national network with more than 1,000 staff and a $120m annual budget and some of the strongest academic impact of any school organization. He also founded Washington Leadership Academy, which recently won the $10m XQ SuperSchool prize from Laurene Powell Jobs, Democracy Builders, Alumni Revolution, Citizenship First, Polaris Project, and Revolutionary Education Ventures (REV).  He holds an Ed.M from Harvard University and an A.B from Brown University.</p>'
 	},
 ];
