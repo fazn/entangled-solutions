@@ -7,6 +7,7 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/mat-frenz-5867b69/',
 		bio: '<p><strong>Mat Frenz</strong> is the Managing Director at Entangled Solutions. He is dedicated to ensuring that the work we produce at Entangled is not only best-in-class, but is also carried out with professionalism, courtesy and integrity.</p><p>Prior to joining Entangled, Mat led platform operations for GlassLab, a non-profit educational technology organization funded by the Gates Foundation and the MacArthur Foundation. There, he was responsible for GlassLab Services, leading product, business and partnership strategy while driving an industry-leading approach to developing, analyzing, and distributing educational games. Mat was also the founder of Precision Response, a software as a service company devoted to supporting nonprofit organizations in their efforts to extend their reach and fundraising capabilities.</p>'
 	},
+
 	{
 		name: 'Terah Crews',
 		photo: 'img/team/terah.jpg',
@@ -14,6 +15,7 @@ var teamMembers = [
 		linkedin: 'https://www.linkedin.com/in/terahacrews/',
 		bio: '<p><strong>Terah Crews</strong> is the Director of Client Solutions at Entangled Solutions. Terah has been in education for 12 years having started in student services, research and teaching before moving into a career in executive administration and new program/venture development.</p><p>Immediately prior to joining Entangled, Terah led business development for Sixup, PBC a fintech / edtech platform that partners with schools to help low-income students pick, pay for and graduate from college. Prior to Sixup, Terah served four years at Arizona State University. While there she worked for the President of ASU and the CEO of the ASU Foundation to build innovative new programs and revenue streams including a public service academy, a defense contractor, an edtech accelerator and a new corporate structure for the university’s foundation.  Terah holds a BA from the University of North Carolina at Chapel Hill and master’s degrees from Brown University and Harvard where she studied political systems as well as leadership and economics of higher education.</p>'
 	},
+	
 	{
 		name: 'Paul Freedman',
 		photo: 'img/team/paul.jpg',
