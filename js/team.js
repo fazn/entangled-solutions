@@ -99,6 +99,13 @@ var teamMembers = [
 		bio: '<p><strong>Lauren Dibble</strong> is a Consulting Team Leader at Entangled Solutions, currently focused on Matterfund, an education funding platform in development on behalf of the World Economic Forum.</p><p>Prior to joining Entangled Solutions, Lauren was the founding Program Manager of Northeastern University\'s Venture Mentoring Network and led marketing, communications, and strategic initiatives for the Northeastern University Center for Entrepreneurship Education. Lauren worked closely with student- and alumni-founded startups and organized university-wide programs and events.</p><p>Previously, Lauren was a member of the Media Relations team at Northeastern University, after working with B2B technology clients at Weber Shandwick, a leading global public relations firms.</p>'
 	},
 	{
+		name: 'Kathy Qu',
+		photo: 'img/team/kathy.jpg',
+		post: 'Consulting Team Leader',
+		linkedin: 'https://www.linkedin.com/in/kathygqu/',
+		bio: '<p><strong>Kathy Qu</strong> is a Consulting Team Leader at Entangled Solutions. Kathy joins Entangled with a background at the intersection of education and business. Most recently, Kathy worked closely with faculty to investigate and develop solutions to more effectively manage for-profit and nonprofit organizations at Harvard Business School. Prior to that, Kathy worked with large charter school authorizers (i.e. state boards, school districts and universities) to diagnose academic and management issues at charter schools at the National Association of Charter School Authorizers. Kathy is passionate about providing socio-emotional and immersive learning experience for students, and serves on the board of Princeton AlumniCorps, a fellowship program that places recent college graduates into nonprofit organizations.</p><p>Kathy earned a BA from Princeton University and MA in Education Policy and Management from the Harvard Graduate School of Education.</p>'
+	},
+	{
 		name: 'Casey Boyles',
 		photo: 'img/team/casey.jpg',
 		post: 'Partnerships Manager',
