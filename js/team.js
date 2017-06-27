@@ -22,13 +22,6 @@ var teamMembers = [
 		bio: '<p><strong>Paul</strong> is the CEO and co-founder of Entangled Ventures and a Principal Consultant at Entangled Solutions. A longtime advocate for the transformative power of a college education, he has founded, managed, and invested in a number of successful education ventures. Prior to Entangled Ventures, Paul was the Founder & CEO of Altius Education, an innovator in Higher Education focused on creating effective, personalized pathways to postsecondary degrees.</p><p>While still finishing college at the University of Chicago, Paul created Academic Engine, a college recruitment technology company that he later sold to Hobsons Inc. in 2004. After selling the company, Paul joined Hobsons as the president of its subsidiary focused on online student recruitment technologies where he served for five years prior to founding Altius.</p>'
 	},
 	{
-		name: 'Deborah Seymour',
-		photo: 'img/team/deb.jpg',
-		post: 'Principal Consultant',
-		linkedin: 'https://www.linkedin.com/in/deborahmseymour',
-		bio: '<p><strong>Deborah Seymour</strong> is a Principal Consultant at Entangled Solutions. Previously, she served as chief academic innovation officer at the American Council on Education, a role in which she oversaw the Council’s agenda to support the return of the United States to global recognition in post-secondary attainment.</p><p>Deborah taught in the City University of New York system for 15 years. She also served as associate director of the Center for Adult Life & Learning at the 92nd Street Y in New York City, with responsibility for adult education programs and strategic partnerships with multiple external organizations. Deborah taught as well at the University of California-Irvine (UCI) and at Orange Coast College. She subsequently became a development officer for the School of Humanities at UCI, before transitioning to Laureate Education. At Laureate, she worked in all facets of product development and product management, both domestically and internationally. Her Laureate career also included research in the area of competency-based education. Deborah holds a BA from Hunter College in business and communications and an MPhil and PhD in theoretical linguistics from the City University of New York Graduate School and University Center.</p>'
-	},
-	{
 		name: 'Jeff Selingo	',
 		photo: 'img/team/jeff.jpg',
 		post: 'Principal Consultant',
@@ -57,11 +50,25 @@ var teamMembers = [
 	    bio: '<p><strong>Nick Hammerschlag</strong> is a Principal Consultant at Entangled Solutions and the President of Entangled Ventures. He was previously on the investment team at General Atlantic and OpenView Venture Partners where he focused on investments in the Internet, Technology, and Education sectors. Nick has extensive experience in scaling both software and education companies having led OpenView’s investment in Instructure (NYSE: INST) and serving on its board. Nick\'s current and prior board director/observer seats include: Qubed Education, Monetate, Instructure, and QTS.</p><p>Outside of the office, Nick supports the MARSOC Foundation and is a member of the Weill Cornell Children\'s Health Council. He graduated from Columbia University with a degree in History. Nick enjoys spending time with his wife, daughter, and their pug/shar-pei puppy named Uni.</p>'
 	},
 	{
+		name: 'Tracy Petrillo',
+		photo: 'img/team/tracy.jpg',
+		post: 'Principal Consultant',
+		linkedin: 'https://www.linkedin.com/in/tracypetrillo/',
+		bio: '<p><strong>Tracy Petrillo</strong>, EdD is a nonprofit management expert and a thought leader in the areas of continuing professional education, adult learning, credentialing, certification and leadership development. She currently serves as CEO for the Academy of Integrative Health and Medicine (AIHM), a start-up interprofessional medical society. Tracy was the former Chief Learning Officer for EDUCAUSE, a nonprofit whose mission is to advance higher education by promoting the intelligent use of information technology. Dr. Petrillo is a certified association executive (CAE) who was awarded the highest national honor for staff, the 2016 Professional Performance Award, by the American Society of Association Executives (ASAE) and was named a Changemaker by MeetingsNet magazine. Tracy speaks nationally on learning innovations and educational technologies to nonprofit, medical, corporate and higher education audiences and advises educational strategy planning to create actionable initiatives. She recently completed a doctorate in educational leadership and management with a specialization in human resource development.</p>'
+	},
+	{
 		name: 'Mike Berlin',
 		photo: 'img/team/mike.jpg',
 		post: 'Principal Consultant',
 		linkedin: 'https://www.linkedin.com/in/berlinmike',
 		bio: '<p><strong>Mike Berlin</strong> is a Principal Consultant at Entangled Solutions. Mike has a ten-year career investing in, acquiring, advising, and building startups in the Higher Education market. He currently acts as an advisor and mentor to several edtech startups.</p><p>Prior to joining Entangled Solutions, Mike led strategy and M&A at Macmillan New Ventures, global publisher Macmillan’s education innovation division. Previously, Mike has worked as a consultant at L.E.K. Consulting. He has a B.S. in Economics from the Wharton School at the University of Pennsylvania.</p>'
+	},
+	{
+		name: 'Rob Urstein',
+		photo: 'img/team/rob.jpg',
+		post: 'Principal Consultant',
+		linkedin: 'https://www.linkedin.com/in/rob-urstein-0582785/',
+		bio: '<p><strong>Rob Urstein</strong> is a Principal Consultant at Entangled Solutions. He is also a Lecturer in Management at the Stanford Graduate School of Business, where he teaches courses on innovation in higher education. Rob has more than 25 years of professional experience as an academic leader, teacher, and researcher, and has worked with undergraduates, graduate students, and executives. He also serves as a governing board member of the College Transition Collaborative, which brings together pioneering social psychologists, education researchers, and higher education practitioners to create learning environments that produce more equitable higher education outcomes.</p><p>Rob spent more than twelve years in varied leadership roles at Stanford University, including Associate Vice Provost for Undergraduate Education, Dean of Freshmen, and Director of Undergraduate Advising and Research. At the Stanford Graduate School of Business, Rob served for eight years as Assistant Dean, and for two years as Managing Director of Global Innovation Programs, overseeing a portfolio of on campus and international programs focused on leadership, innovation, and entrepreneurship. Prior to Stanford, Rob taught and coached in an independent high school in San Francisco, and in 2000-01 he was a Fulbright Senior Scholar in Oslo, Norway, working with the Royal Norwegian Ministry of Education. Rob earned his undergraduate degree from Claremont McKenna College, and his MA and PhD from the University of Iowa.</p>'
 	},
 	{
 		name: 'Allison Salisbury',
@@ -96,7 +103,7 @@ var teamMembers = [
 		photo: 'img/team/lauren.jpg',
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/laurendibble',
-		bio: '<p><strong>Lauren Dibble</strong> is a Consulting Team Leader at Entangled Solutions, currently focused on Matterfund, an education funding platform in development on behalf of the World Economic Forum.</p><p>Prior to joining Entangled Solutions, Lauren was the founding Program Manager of Northeastern University\'s Venture Mentoring Network and led marketing, communications, and strategic initiatives for the Northeastern University Center for Entrepreneurship Education. Lauren worked closely with student- and alumni-founded startups and organized university-wide programs and events.</p><p>Previously, Lauren was a member of the Media Relations team at Northeastern University, after working with B2B technology clients at Weber Shandwick, a leading global public relations firms.</p>'
+		bio: '<p><strong>Lauren Dibble</strong>Lauren Dibble is a Consulting Team Leader at Entangled Solutions and is the Project Manager for Innovation Management partnerships. Lauren has spent the last decade driving innovation and entrepreneurship in education and technology.</p><p>Prior to joining Entangled, Lauren led marketing, communications, and strategic initiatives at Northeastern University. While at Northeastern, Lauren supported student- and alumni-founded startups through advising and mentorship, and she was a founding leader of the Northeastern University Venture Mentoring Network.</p><p>Lauren holds an M.B.A. and a B.S. from the D’Amore-McKim School of Business at Northeastern University.</p>'
 	},
 	{
 		name: 'Kathy Qu',
@@ -125,12 +132,5 @@ var teamMembers = [
 		post: 'Senior Advisor',
 		linkedin: 'https://www.linkedin.com/in/lifshits',
 		bio: '<p><strong>Yury Lifshits</strong> is a senior advisor at Entangled Solutions. Throughout his career he has been an instructor at K-12, undergraduate, graduate, and continuous education programs, education technology developer, entrepreneur, and consultant.</p><p>Prior to starting Entangled Solutions, Yury led two education technology startups, a large-scale hybrid bootcamp program in Eastern Europe and one of the first mobile course creation platforms. Prior, Yury was a data scientist at Caltech and Yahoo! Labs and won two gold medals at the International Math Olympiad.</p>'
-	},
-	{
-		name: 'Seth Andrew',
-		photo: 'img/team/seth.jpg',
-		post: 'Senior Advisor',
-		linkedin: 'https://www.linkedin.com/in/sethandrew/',
-		bio: '<p><strong>Seth Andrew</strong>  is a Senior Advisor at Entangled Solutions. Most recently he served in the White House as Senior Advisor for Education and Civic Technology in the Executive Office of the President.  He led the Obama Administration’s efforts including Virtual reality for good, Future Ready Schools, Computer Science For All, Next Generation High Schools, and Vote.gov among others. Prior to the White House Seth served as Superintendent in Residence and Senior Advisor for US Education Secretary Arne Duncan.</p><p>Seth is a serial social entrepreneur. He founded and grew Democracy Prep Public Schools into a national network with more than 1,000 staff and a $120m annual budget and some of the strongest academic impact of any school organization. He also founded Washington Leadership Academy, which recently won the $10m XQ SuperSchool prize from Laurene Powell Jobs, Democracy Builders, Alumni Revolution, Citizenship First, Polaris Project, and Revolutionary Education Ventures (REV).  He holds an Ed.M from Harvard University and an A.B from Brown University.</p>'
 	},
 ];
