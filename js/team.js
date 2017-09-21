@@ -110,7 +110,7 @@ var teamMembers = [
 		photo: 'img/team/eleanor.jpg',
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/eleanor-cooper-26395757/',
-		bio: '<p><strong>Eleanor Cooper</strong>" is a Product Lead for Entangled Studios and Consulting Team Lead for Entangled Solutions. She is passionate about systemic change for more equitable individual opportunity, and the critical role of postsecondary education in achieving such ends.  Her interest and work has been focused on workforce development, the labor market skills gap, and issues related to college persistence.  Previously, she worked in product development roles for several startups and business builders in the US and abroad as well as in finance on the investing team of a middle market private equity firm.</p><p> Eleanor received her MBA from the Stanford Graduate School of Business and B.A. from the University of North Carolina at Chapel Hill.</p>'
+		bio: '<p><strong>Eleanor Cooper</strong> is a Product Lead for Entangled Studios and Consulting Team Lead for Entangled Solutions. She is passionate about systemic change for more equitable individual opportunity, and the critical role of postsecondary education in achieving such ends.  Her interest and work has been focused on workforce development, the labor market skills gap, and issues related to college persistence.  Previously, she worked in product development roles for several startups and business builders in the US and abroad as well as in finance on the investing team of a middle market private equity firm.</p><p> Eleanor received her MBA from the Stanford Graduate School of Business and B.A. from the University of North Carolina at Chapel Hill.</p>'
 	},
 	{
 		name: 'Casey Boyles',
