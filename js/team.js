@@ -85,13 +85,6 @@ var teamMembers = [
 		bio: '<p><strong>Kyle Cureau</strong> is the Director of Strategic Initiatives at Entangled Solutions, currently leading Matterfund, the first real-time graph intelligence platform for international education development. He has consulted across verticals, leading teams to design and develop business models, system architecture, APIs, web apps, and mobile apps.</p><p>He also co-founded the health charity LzA to provide supplies to malnourished children. LzA, in partnership with CORE, PacSun, AmFam, and Birchbox, helped kids and communities in Central America. While still in college, Kyle started his first venture, BuyWell, a Fair Trade coffee roaster and wholesaler. Within three years, he had grown BuyWell to a team of 15, working directly with farming coops in seven countries, and roasting 15,000lbs a month for major retailers.</p><p>With a career bent for impact and a passion for education, Kyle\'s focus is on student experience. He believes strongly in learning-by-doing and learning-by-playing.</p>'
 	},
 	{
-		name: 'Amber Laxton',
-		photo: 'img/team/amber.jpg',
-		post: 'Consulting Team Leader',
-		linkedin: 'https://www.linkedin.com/in/amberlaxton',
-		bio: '<p><strong>Amber Laxton</strong> is a Consulting Team Leader at Entangled Solutions. She joins Entangled with over eight years of experience in continuing education, most recently as a Senior Analyst of Continuing Education at Eduventures. She previously worked as the Director of Academic Services at the University of California Santa Cruz Extension and the Enrollment Services Manager at DePaul University Continuing and Professional Education. She has experience developing and managing non-credit and non-degree programs and optimizing technology to improve operational efficiency and student services.</p>'
-	},
-	{
 		name: 'Jasmin Schiener',
 		photo: 'img/team/jasmin.jpg',
 		post: 'Consulting Team Leader',
@@ -103,7 +96,7 @@ var teamMembers = [
 		photo: 'img/team/lauren.jpg',
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/laurendibble',
-		bio: '<p><strong>Lauren Dibble</strong>Lauren Dibble is a Consulting Team Leader at Entangled Solutions and is the Project Manager for Innovation Management partnerships. Lauren has spent the last decade driving innovation and entrepreneurship in education and technology.</p><p>Prior to joining Entangled, Lauren led marketing, communications, and strategic initiatives at Northeastern University. While at Northeastern, Lauren supported student- and alumni-founded startups through advising and mentorship, and she was a founding leader of the Northeastern University Venture Mentoring Network.</p><p>Lauren holds an M.B.A. and a B.S. from the D’Amore-McKim School of Business at Northeastern University.</p>'
+		bio: '<p><strong>Lauren Dibble</strong> is a Consulting Team Leader at Entangled Solutions and is the Project Manager for Innovation Management partnerships. Lauren has spent the last decade driving innovation and entrepreneurship in education and technology.</p><p>Prior to joining Entangled, Lauren led marketing, communications, and strategic initiatives at Northeastern University. While at Northeastern, Lauren supported student- and alumni-founded startups through advising and mentorship, and she was a founding leader of the Northeastern University Venture Mentoring Network.</p><p>Lauren holds an M.B.A. and a B.S. from the D’Amore-McKim School of Business at Northeastern University.</p>'
 	},
 	{
 		name: 'Kathy Qu',
@@ -111,6 +104,13 @@ var teamMembers = [
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/kathygqu/',
 		bio: '<p><strong>Kathy Qu</strong> is a Consulting Team Leader at Entangled Solutions. Kathy joins Entangled with a background at the intersection of education and business. Most recently, Kathy worked closely with faculty to investigate and develop solutions to more effectively manage for-profit and nonprofit organizations at Harvard Business School. Prior to that, Kathy worked with large charter school authorizers (i.e. state boards, school districts and universities) to diagnose academic and management issues at charter schools at the National Association of Charter School Authorizers. Kathy is passionate about providing socio-emotional and immersive learning experience for students, and serves on the board of Princeton AlumniCorps, a fellowship program that places recent college graduates into nonprofit organizations.</p><p>Kathy earned a BA from Princeton University and MA in Education Policy and Management from the Harvard Graduate School of Education.</p>'
+	},
+	{
+		name: 'Eleanor Cooper',
+		photo: 'img/team/eleanor.jpg',
+		post: 'Consulting Team Leader',
+		linkedin: 'https://www.linkedin.com/in/eleanor-cooper-26395757/',
+		bio: '<p><strong>Eleanor Cooper</strong>" is a Product Lead for Entangled Studios and Consulting Team Lead for Entangled Solutions. She is passionate about systemic change for more equitable individual opportunity, and the critical role of postsecondary education in achieving such ends.  Her interest and work has been focused on workforce development, the labor market skills gap, and issues related to college persistence.  Previously, she worked in product development roles for several startups and business builders in the US and abroad as well as in finance on the investing team of a middle market private equity firm.</p><p> Eleanor received her MBA from the Stanford Graduate School of Business and B.A. from the University of North Carolina at Chapel Hill.</p>'
 	},
 	{
 		name: 'Casey Boyles',
@@ -124,7 +124,7 @@ var teamMembers = [
 		photo: 'img/team/faz.jpg',
 		post: 'Operations Manager',
 		linkedin: 'https://www.linkedin.com/in/fazilatnassiri',
-		bio: '<p><strong>Faz Nassiri</strong> is the Operations Manager at Entangled Solutions. She ensures that internal processes and workflows run smoothly and helps coordinate with external contractors and subject matter experts. Before joining Entangled she handled operations for two tech startups at SkyDeck, UC Berkeley’s startup incubator. Prior to coming to the Bay Area, she worked as an an assistant producer in television in London. Faz holds a BA in engineering and a master’s degree in International Business Management.</p>'
+		bio: '<p><strong>Faz Nassiri</strong> is the Operations Manager at Entangled Solutions. She ensures that internal processes and workflows run smoothly and helps coordinate with external contractors and subject matter experts. Before joining Entangled she handled operations for two tech startups at SkyDeck, UC Berkeley’s startup incubator. Prior to coming to the Bay Area, she worked as an an assistant producer in television in London. Faz holds a B.Sc. in engineering and a master’s degree in International Business Management.</p>'
 	},
 	{
 		name: 'Yury Lifshits',
