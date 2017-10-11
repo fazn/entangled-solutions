@@ -78,6 +78,27 @@ var teamMembers = [
 		bio: '<p><strong>Allison Salisbury</strong> is a Principal Consultant at Entangled Solutions. With a background as a university administrator and entrepreneur, her work focuses on innovation management for universities, new postsecondary models, and partnerships between edtech and higher education.</p><p>Prior to joining Entangled, Allison launched the higher education organization at EdSurge, where she built and led an interdisciplinary team of journalists, community builders, designers, and engineers. Allison also ran innovation efforts for the President at Davidson College, spearheading priorities around innovation management, edtech partnerships, new program creation, and college to career transitions.</p><p>Inspired by how education can be a tool for individual and community empowerment, Allison began her career as a social justice educator designing experiential learning programs for undergraduates in the U.S. South and rural Thailand.</p>'
 	},
 	{
+		name: 'Michelle Weise',
+		photo: 'img/team/michelle.jpg',
+		post: 'Senior Advisor',
+		linkedin: 'https://www.linkedin.com/in/rwmichelle/',
+		bio: '<p><strong>Michelle Weise</strong> is a Senior Advisor for Entangled Solutions and the SVP, workforce strategies and Chief Innovation Officer at Strada Education Network. She leads the organization’s workforce alignment initiatives as well as innovation and thought leadership priorities. She is a columnist for EdSurge and the former Chief Innovation Officer of Sandbox ColLABorative, the research and development lab of strategy and innovation at SNHU.</p>'
+	},
+	{
+		name: 'Kevin Rockmael',
+		photo: 'img/team/kevin.jpg',
+		post: 'Principal Consultant',
+		linkedin: 'https://www.linkedin.com/in/kevinrockmael/',
+		bio: '<p><strong>Kevin Rockmael</strong> is a Principal Consutant and Head of marketing for Entangled Solutions. He has lead marketing, sales, and product strategy for a number of fast grwoth education and technology based organizations including Kaplan, Intrax Monitor 360 and Practice. Kevin holds a B.A, form University of California at Santa Barbara, and an MBA/MA both from The University of Chicago.</p>' 
+	},
+	{
+		name: 'Gunnar Counselman',
+		photo: 'img/team/gunnar.png',
+		post: 'Principal Consultant',
+		linkedin: 'https://www.linkedin.com/in/gunnarcounselman/',
+		bio: '<p><strong>Gunnar Counselman</strong> is a Principal Consultant at Entangled Solutions. He is the founder and CEO of Fidelis Education, the leading LRM (Learning Relationship Management Software). A former US Marine Human Intelligence Officer and alumnus of Bain and Company, Harvard Business School and Cornell University. Gunnar first got interested in personalized education while at HBS where he conducted initial research for Christensen and Horn’s book Disrupting Class.</p>'
+	},
+	{
 		name: 'Kyle Cureau',
 		photo: 'img/team/kyle.jpg',
 		post: 'Director of Strategic Initiatives',
@@ -111,6 +132,13 @@ var teamMembers = [
 		post: 'Consulting Team Leader',
 		linkedin: 'https://www.linkedin.com/in/eleanor-cooper-26395757/',
 		bio: '<p><strong>Eleanor Cooper</strong> is a Product Lead for Entangled Studios and Consulting Team Lead for Entangled Solutions. She is passionate about systemic change for more equitable individual opportunity, and the critical role of postsecondary education in achieving such ends.  Her interest and work has been focused on workforce development, the labor market skills gap, and issues related to college persistence.  Previously, she worked in product development roles for several startups and business builders in the US and abroad as well as in finance on the investing team of a middle market private equity firm.</p><p> Eleanor received her MBA from the Stanford Graduate School of Business and B.A. from the University of North Carolina at Chapel Hill.</p>'
+	},
+	{
+		name: 'Grace Gardener',
+		photo: 'img/team/grace.jpg',
+		post: 'Program Manager',
+		linkedin: 'https://www.linkedin.com/in/grace-gardner-829b8a13/',
+		bio: '<p><strong>Grace Gardner</strong>  </p>'
 	},
 	{
 		name: 'Casey Boyles',
