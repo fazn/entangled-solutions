@@ -138,7 +138,7 @@ var teamMembers = [
 		photo: 'img/team/grace.jpg',
 		post: 'Program Manager',
 		linkedin: 'https://www.linkedin.com/in/grace-gardner-829b8a13/',
-		bio: '<p><strong>Grace Gardner</strong>  </p>'
+		bio: '<p><strong>Grace Gardner</strong> is a Consultant at Entangled Solutions.  With a background in educational design, Grace brings over a decade of experience in planning, design strategy, organizational behavior and communication facilitation for the K-12, Higher Education and Workplace spaces. Her focus is on facilitating the integration and implementation of innovative strategies into the design of physical environment to leverage student success.</p><p>Prior to joining Entangled, Grace has participated and facilitated the programming, design, master planning and strategy of educational facilities and workplaces both domestically and globally, concentrating on adapting educational environments for innovation and active learning.  Her expertise adds unique insights into the complexities of how space affects productivity and interaction, how technology has affected how we use space, and new ways of consensus building and communication strategy.</p>'
 	},
 	{
 		name: 'Casey Boyles',
